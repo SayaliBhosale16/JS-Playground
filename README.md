@@ -6,7 +6,9 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It supports b
 - Addition, subtraction, multiplication, division.
 - Clear and delete functionality.
 
+
 ### Screenshot:
-![Calculator Screenshot](./Simple_Calculator/calc.png)
+<img src="././Simple_Calculator/calc.png" alt="Calculator Screenshot" width="200"/>
+
 
 Try it out and explore how the logic for basic operations is implemented in JavaScript!
