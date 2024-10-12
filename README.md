@@ -37,7 +37,7 @@ A fully responsive and modern login/signup page created using HTML, CSS, and Jav
 
 # 3. Tic Tac Toe Game
 
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project allows two players to take turns and play the classic 3x3 grid game in the browser.
+A Tic Tac Toe game built with HTML, CSS, and JavaScript. This project allows two players to take turns and play the classic 3x3 grid game in the browser.
 
 ## Features
 - 2-player gameplay with alternating turns (X and O).
@@ -55,6 +55,31 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project all
 
 ### Gamw Draw!
 <img src="././TicTacToe/Screenshot 2024-10-12 at 2.30.48 PM.png" alt="Game Draw" width="300"/>
+
+# 4. Snake Game
+
+A Snake Game built with HTML, CSS, and JavaScript. This project lets the player control a snake to collect food and grow longer while avoiding collisions with the walls and the snake itself.
+
+## Features
+- Real-time snake movement using arrow keys.
+- Score tracking as the snake collects food.
+- Snake grows longer with each food collected.
+- Game Over condition when the snake hits the wall or itself.
+- Reset button to restart the game without refreshing the page.
+- Simple and clean interface with responsive design.
+
+## Technologies Used
+- **HTML5**: For structuring the game canvas and elements.
+- **CSS3**: For basic styling of the game container, scoreboard, and reset button.
+- **JavaScript (ES6+)**: To handle game logic, including snake movement, food generation, collision detection, and score management.
+
+## Eat food and grow longer without hitting walls or yourself!
+### Dead Snake! 
+<img src="././Snake Game/snake.png" alt="Player Wins" width="300"/>
+
+
+
+
 
 ## How to Run
 1. Clone the repository:
