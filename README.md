@@ -30,12 +30,31 @@ A fully responsive and modern login/signup page created using HTML, CSS, and Jav
 <img src="././Login_Page_Animation/sign-in.png" alt="Calculator Screenshot" width="400"/>
 
 
-
-
 ## Technologies Used
 - **HTML5**
 - **CSS3 (Flexbox, Transitions, Keyframes)**
 - **JavaScript (Form Toggling Logic)**
+
+# 3. Tic Tac Toe Game
+
+A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project allows two players to take turns and play the classic 3x3 grid game in the browser.
+
+## Features
+- 2-player gameplay with alternating turns (X and O).
+- Win detection and display of winner or draw.
+- Responsive design for different screen sizes.
+- Ability to reset and play again without refreshing the page.
+
+## Technologies Used
+- **HTML5**: For structuring the game layout.
+- **CSS3**: For styling the board and responsive design.
+- **JavaScript (ES6+)**: To handle game logic, player turns, and win/draw conditions.
+
+### Player Wins! 
+<img src="././TicTacToe/Screenshot 2024-10-12 at 2.31.35 PM.png" alt="Player Wins" width="300"/>
+
+### Gamw Draw!
+<img src="././TicTacToe/Screenshot 2024-10-12 at 2.30.48 PM.png" alt="Game Draw" width="300"/>
 
 ## How to Run
 1. Clone the repository:
